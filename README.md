@@ -1,0 +1,2 @@
+# stake-vip-calculate
+StakeのVIP進捗を達成するためにかかる費用などを出力するDiscordBOTのソースコードです。
