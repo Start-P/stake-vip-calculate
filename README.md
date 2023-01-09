@@ -1,6 +1,10 @@
 # stake-vip-calculate
 StakeのVIP進捗を達成するためにかかる費用などを出力するDiscordBOTのソースコードです。
 
+# Bot Link
+ここからビルド済みのBOTを導入することができます。
+https://discord.com/api/oauth2/authorize?client_id=1061919167609065512&permissions=0&scope=bot
+
 # How to Build
 1. 以下のコマンドを実行
 
